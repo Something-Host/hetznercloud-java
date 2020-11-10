@@ -1,8 +1,6 @@
 package me.tomsdevsn.hetznercloud;
 
-import me.tomsdevsn.hetznercloud.exception.InvalidFormatException;
 import me.tomsdevsn.hetznercloud.exception.InvalidParametersException;
-import me.tomsdevsn.hetznercloud.objects.general.Action;
 import me.tomsdevsn.hetznercloud.objects.request.*;
 import me.tomsdevsn.hetznercloud.objects.response.*;
 import org.springframework.http.HttpEntity;
